@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jamalQDeveloper
-- 👀 I’m interested in Front End Development , fullStack development(Nodejs)
+- 👀 I’m interested in Front End Development , fullStack development(Nodejs,Python)
 - 🌱 I’m currently learning ... ReactJs, NextJs,
 - 💞️ I’m looking to collaborate on ... projects, etc
 - 📫 How to reach me ... LinkedIN profile = linkedin.com/in/jamal-quant-23543b210
